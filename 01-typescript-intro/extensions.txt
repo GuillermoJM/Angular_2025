@@ -1,0 +1,17 @@
+<--**extensiones**-->
+aaron-bond.better-comments
+angular.ng-template
+bradlc.vscode-tailwindcss
+cyrilletuzi.angular-schematics
+daltonmenezes.aura-theme
+editorconfig.editorconfig
+enkia.tokyo-night
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+johnpapa.angular2
+ms-ceintl.vscode-language-pack-es
+natewallace.angular2-inline
+pkief.material-icon-theme
+quicktype.quicktype
+steoates.autoimport
+usernamehw.errorlens
