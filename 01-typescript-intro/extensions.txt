@@ -1,4 +1,4 @@
-<--**extensiones**-->
+//extensiones//
 aaron-bond.better-comments
 angular.ng-template
 bradlc.vscode-tailwindcss
