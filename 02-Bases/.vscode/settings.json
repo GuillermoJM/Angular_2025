@@ -1,3 +1,9 @@
 {
-    "typescript.tsdk": "node_modules\\typescript\\lib"
+    "scm.compactFolders": false,
+    "angular-schematics.schematicsDefaultOptions": {
+        "angular-*": {
+            "externalTemplate": true,
+            "skipStyle": true
+        }
+    }
 }
